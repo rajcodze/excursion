@@ -31,3 +31,8 @@ html {
     text-align: center;
     font-size: 1.5rem;
 }
+.footer {
+    color: aliceblue;
+    text-align: right;
+    font-size: 20px;
+}
