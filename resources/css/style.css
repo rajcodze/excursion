@@ -1,0 +1,33 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    background-color: black;
+
+}
+.heading {
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+}
+.d_link {
+    display: flex;
+    justify-content: center;
+    color: blueviolet;
+    font-size: 16px;
+}
+.video {
+    display: flex;
+    
+    justify-content: center;
+}
+.image {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.para {
+    color: rgb(105, 78, 96);
+    text-align: center;
+    font-size: 1.5rem;
+}
